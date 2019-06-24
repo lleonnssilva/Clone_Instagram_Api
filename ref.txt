@@ -1,0 +1,11 @@
+cd C:\Users\leonsilva\Documents\oCam\week-7\fontes Week7
+mkdir beckend
+cd beckend
+yarn init -y
+code .
+yarn add express
+yarn add nodemon -D
+https://cloud.mongodb.com/v2/5a8c0a4bd383ad1b8732515e#clusters
+yarn add mongooge
+yarn add multer
+yarn add sharp
